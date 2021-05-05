@@ -1,2 +1,7 @@
-package pappu.springframrwork.sfgdi.services;public class GreetingService {
+package pappu.springframrwork.sfgdi.services;
+
+public interface GreetingService  {
+
+    String SayGreeting();
+
 }
